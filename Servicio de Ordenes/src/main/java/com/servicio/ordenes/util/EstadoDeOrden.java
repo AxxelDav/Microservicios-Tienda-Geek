@@ -1,0 +1,5 @@
+package com.servicio.ordenes.util;
+
+public enum EstadoDeOrden {
+    NO_ASISTIDO, PENDIENTE, ESPERANDO_POR_CORREO, ENVIADO, ENTREGADO, FUERA_DE_ENTREGA, ORDEN_LLEGADA_A_INSTALACION
+}

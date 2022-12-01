@@ -1,0 +1,2 @@
+INSERT INTO PRODUCTO(NOMBRE, DESCRIPCION, SKU, TAMAÑO, COLOR, IMAGEN, UPC, PRECIO_UNITARIO, UNIDADES_EN_STOCK, FECHA_CREADA)
+VALUES ('DBZ Vegeta Shirt', 'Dragon Ball t-shirt with vegeta stamping', '7890123432134', 'L', 'WHITE', 'pictures/dbz/vegeta_white.png', '999818727312', 19.99, 200, '2019-06-07 11:11:00');
