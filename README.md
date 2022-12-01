@@ -18,6 +18,7 @@ Tecnologias utilizadas:
 - Spring Actuator
 - Spring Data
 - Spring Security
+- JWT Token
 - Spring DevTools
 - Docker
 - Redis
