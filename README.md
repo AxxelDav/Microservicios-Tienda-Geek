@@ -23,4 +23,5 @@ Tecnologias utilizadas:
 - Docker
 - Redis
 - Pruebas Unitarias con JUnit y Mockito
+- Envio de Emails
 - POSTMAN
